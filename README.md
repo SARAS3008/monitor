@@ -21,3 +21,4 @@
 - 这版会尽量从 `/prompt` 请求体里自动猜测批量运行次数。
 - 如果你的 ComfyUI 前端版本没有把“右上角运行次数”直接带到请求里，可以在详情页手动设置 repeat_count。
 - 设置后会生成对应数量的子执行占位，并在后续 execution_start / success / failure 里依次推进。
+- https://huggingface.co/Falconsai/nsfw_image_detection/tree/main
